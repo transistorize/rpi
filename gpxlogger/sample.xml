@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<gpx version="1.1" creator="GPSD 3.6 - http://catb.org/gpsd"
+
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+        xmlns="http://www.topografix.com/GPX/1/1"
+
+        xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+
+        http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+ <metadata>
+
+  <time>2013-01-10T03:58:43.000Z</time>
+
+ </metadata>
+
+ <trk>
+
+  <src>GPSD 3.6</src>
+
+  <trkseg>
+
+   <trkpt lat="40.770247" lon="-73.948983">
+
+    <ele>5.387000</ele>
+
+    <time>2013-01-10T03:58:43.000Z</time>
+
+    <src>GPSD tag="MID2"</src>
+
+    <fix>3d</fix>
+
+    <sat>5</sat>
+
+    <hdop>2.6</hdop>
+
+    <vdop>2.8</vdop>
+
+    <pdop>3.8</pdop>
+
+   </trkpt>
+
+   <trkpt lat="40.770234" lon="-73.948978">
+
+    <ele>7.052000</ele>
+
+    <time>2013-01-10T03:58:44.000Z</time>
+
+    <src>GPSD tag="MID2"</src>
+
+    <fix>3d</fix>
+
+    <sat>5</sat>
+
+    <hdop>2.6</hdop>
+
+    <vdop>2.8</vdop>
+
+    <pdop>3.8</pdop>
+
+   </trkpt>
+
+   <trkpt lat="40.770227" lon="-73.948970">
+
+    <ele>7.990000</ele>
+
+    <time>2013-01-10T03:58:45.000Z</time>
+
+    <src>GPSD tag="MID2"</src>
+
+    <fix>3d</fix>
+
+    <sat>5</sat>
+
+    <hdop>2.6</hdop>
+
+    <vdop>2.8</vdop>
+
+    <pdop>3.8</pdop>
+
+   </trkpt>
+
+   <trkpt lat="40.770221" lon="-73.948974">
+
+    <ele>8.717000</ele>
+
+    <time>2013-01-10T03:58:46.000Z</time>
+
+    <src>GPSD tag="MID2"</src>
+
+    <fix>3d</fix>
+
+    <sat>5</sat>
+
+    <hdop>2.6</hdop>
+
+    <vdop>2.8</vdop>
+
+    <pdop>3.8</pdop>
+
+   </trkpt>
+
+   <trkpt lat="40.770221" lon="-73.948974">
+
+    <ele>8.717000</ele>
+
+    <time>2013-01-10T03:58:47.000Z</time>
+
+    <src>GPSD tag="MID2"</src>
+
+    <fix>3d</fix>
+
+    <sat>5</sat>
+
+    <hdop>2.6</hdop>
+
+    <vdop>2.8</vdop>
+
+    <pdop>3.8</pdop>
+
+   </trkpt>
+
+   <trkpt lat="40.770214" lon="-73.948965">
+
+    <ele>9.655000</ele>
+
+    <time>2013-01-10T03:58:48.000Z</time>
+
+    <src>GPSD tag="MID2"</src>
+
+    <fix>3d</fix>
+
+    <sat>5</sat>
+
+    <hdop>2.6</hdop>
+
+    <vdop>2.8</vdop>
+
+    <pdop>3.8</pdop>
+
+   </trkpt>
+
+   <trkpt lat="40.770207" lon="-73.948957">
+
+    <ele>10.592000</ele>
+
+    <time>2013-01-10T03:58:49.000Z</time>
+
+    <src>GPSD tag="MID2"</src>
+
+    <fix>3d</fix>
+
+    <sat>5</sat>
+
+    <hdop>2.6</hdop>
+
+    <vdop>2.8</vdop>
+
+    <pdop>3.8</pdop>
+
+   </trkpt>
+
+   <trkpt lat="40.770201" lon="-73.948961">
+
+    <ele>11.320000</ele>
+
+    <time>2013-01-10T03:58:50.000Z</time>
+
+    <src>GPSD tag="MID2"</src>
+
+    <fix>3d</fix>
+
+    <sat>5</sat>
+
+    <hdop>2.6</hdop>
+
+    <vdop>2.8</vdop>
+
+    <pdop>3.8</pdop>
+
+   </trkpt>
+
+   <trkpt lat="40.770194" lon="-73.948953">
+
+    <ele>12.257000</ele>
+
+    <time>2013-01-10T03:58:51.000Z</time>
+
+    <src>GPSD tag="MID2"</src>
+
+    <fix>3d</fix>
+
+    <sat>5</sat>
+
+    <hdop>2.6</hdop>
+
+    <vdop>2.8</vdop>
+
+    <pdop>3.8</pdop>
+
+   </trkpt>
+
+  </trkseg>
+
+ </trk>
+
+</gpx>
+
