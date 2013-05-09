@@ -1,0 +1,26 @@
+{
+  "name": "kinisi-console",
+  "description": "The Kinisi console with GPS.",
+  "author": "Bryan Valentini <bryan@kinisi.cc>",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "test": "test.js"
+  },
+  "dependencies": {
+    "config": "0.4.x",
+    "node-gpsd": "0.1.4",
+    "express": "3.1.x",
+    "jade": "*",
+    "socket.io": "0.9.x",
+    "sqlite3": "2.1.x",
+    "coffee-script": "1.6.2",
+    "murmurhash": "*",
+    "getmac": "*"
+  },
+  "devDependencies": {
+    "mocha": "1.9.x"
+  },
+  "engine": "node = 0.10.x"
+}

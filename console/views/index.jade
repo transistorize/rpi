@@ -1,0 +1,40 @@
+extends layout
+
+block content
+    h2= title
+    #wrapper
+        #map
+            p.label data feed: 
+                span#feed-id feed id
+            p.label kinisi: 
+                span#kinisi-id unique id  parameters:  
+                span= os_type 
+                ,
+                span= os_platform    
+    div
+        p Daemon Status:       
+            span.cstatus(data-bind='text: daemonStatus')
+        p Collection Status:   
+            span.cstatus(data-bind='text: collectionStatus')
+        
+        textarea#feed data feed
+        
+        button#daemon start daemon
+        button#forceRestart force restart
+        button(data-bind='click: toggleCollectionFeed, text: feedBtnName') start collecting data
+        
+        table
+            thead
+                tr
+                    th command 
+                    th message
+            tbody(data-bind='foreach: receivedCommands')
+                tr
+                    td(data-bind='text: command')
+                    td(data-bind='text: message')
+
+    script(type='text/javascript', src='/socket.io/socket.io.js')
+    script(type='text/javascript', src='/javascripts/knockout-2.2.1.js')
+    script(type='text/javascript', src='/javascripts/ui.js')
+    script(type='text/javascript', src='/javascripts/feed.js')
+        
